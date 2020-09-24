@@ -23,5 +23,5 @@ Using this data and plots I showed these cities in a map with the nearest hotels
 
 <img src="WeatherPy/Northern_city_wind-Latitude.png" width = 500>
 
-<img src="VacationPy/vacation_map.png" width = 500>
+<img src="VacationPy/vacation_map.png" width = 800>
 
